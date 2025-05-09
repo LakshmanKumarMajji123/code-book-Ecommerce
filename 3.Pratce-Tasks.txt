@@ -1,0 +1,21 @@
+1. Accordians
+2. Filter-bar (side-bar)
+3. productDetail page
+4. Rating page
+5. DarkMode part in "header.js" file
+6. scrollToTop component
+7. search functionality in header
+     1. click on search it visible or else not visible functionality
+     2. when u type any product in search the open "produts" page show that particular product
+         products?q=javascript
+
+we have anytype of "search parameters" then going to pass the 'query term' api
+8. dynamic title updation (when u go to anypage that page title would be displayed)
+     steps
+      1. insert default title to the 'index.html'
+      2. create a hook and update the title
+
+9. filter-bar (click on any filter that products should be displayed)
+    *ex:- Inside list we visit individual products and filterOut all the products that currently holds the property called "best_seller = true"
+
+10. Pratice JSON-Server-Auth & JWT-Tokens

@@ -1,0 +1,6 @@
+1. whenever u work on any component that file should be export  in index.js
+2. import the component in our AllRoutes.js
+3. import the "AllRoutes" in App.js
+
+
+json-serverAuth is used for JWT token
